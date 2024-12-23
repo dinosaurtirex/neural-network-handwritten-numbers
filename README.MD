@@ -1,19 +1,15 @@
-# neural-network-handwritten-numbers
+# Нейронная сеть для распознавания рукописных цифр
 
-## Hello. This is a multilayer perceptron neural network in JavaScript.
+## Привет! Это многослойный персептрон на JavaScript.
 
-Neural network was created and trained to recognize 10 handwritten numbers from 0 to 9.
+Нейронная сеть была создана и обучена для распознавания 10 рукописных цифр от 0 до 9.
 
-She has already been trained and is able to recognize handwritten numbers.
-The project will be gradually updated, the ability to train, load other weights, and view the insides of the neural network will be added to find out how it works better.
+Она уже обучена и способна распознавать рукописные цифры.  
+Проект будет постепенно обновляться: будет добавлена возможность обучения, загрузки других весов, а также просмотр внутреннего устройства нейронной сети для лучшего понимания её работы.
 
-Dataset for training: [MNIST](https://en.wikipedia.org/wiki/MNIST_database)
+**Датасет для обучения:** [MNIST](https://ru.wikipedia.org/wiki/MNIST)
 
-## Link to the page: [Network](https://michael-bill.github.io/neural-network-handwritten-numbers/)
+**Ссылка на проект:** [Network](https://michael-bill.github.io/neural-network-handwritten-numbers/)
 
-## demo.gif:
+**Демонстрация работы:**  
 ![demo.gif](https://github.com/michael-bill/neural-network-handwritten-numbers/blob/main/demo.gif)
-
-## How is this works?
-
-Todo...
